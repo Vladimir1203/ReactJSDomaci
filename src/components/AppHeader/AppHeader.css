@@ -1,0 +1,22 @@
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.wrapper{
+    background-color: #817C83;
+    border-radius: 0px 0px 20px 20px;
+    height: 55px;
+}
+
+.recipeBook{
+    font-size: 35px;
+}
+
